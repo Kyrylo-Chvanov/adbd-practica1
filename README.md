@@ -1,6 +1,9 @@
 # Informe de Ejercicios de Base de Datos PostgreSQL
 
 **Autor:** Kyrylo Chvanov  
+postgres: 123
+admin_biblio: admin
+usuario_biblio: usuario
 
 ---
 
